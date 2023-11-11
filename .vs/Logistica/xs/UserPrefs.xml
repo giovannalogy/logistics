@@ -1,4 +1,40 @@
 ﻿<Properties StartupConfiguration="{E121E20A-01B8-4CCC-9AFC-A0A00CC8BC4C}|Logistica.API">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Logistica.API/Program.cs">
+    <Files>
+      <File FileName="Logistica.API/Bundle/Bundle.cs" Line="12" Column="1" />
+      <File FileName="Logistica.API/Controllers/DeliveryController.cs" Line="41" Column="1" />
+      <File FileName="Logistica.API/Controllers/ProductController.cs" Line="42" Column="1" />
+      <File FileName="Logistica.API/Properties/Logistics.API.csproj" Line="15" Column="34" />
+      <File FileName="Logistica.API/Program.cs" Line="25" Column="11" />
+      <File FileName="Logistica.API/Properties/launchSettings.json" Line="10" Column="4" />
+      <File FileName="Logistica.API/Properties/launchSettings.json" Line="10" Column="4" />
+      <File FileName="Logistica.API/Properties/launchSettings.Development.json" Line="8" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Logistica" expanded="True">
+            <Node name="Logistics.Application" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Logistica" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Logistics.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
