@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.API/Logistics.API.csproj": {}
+    "/Users/giova/Documents/GitHub/logistics/Logistica.API/Logistics.API.csproj": {}
   },
   "projects": {
-    "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.API/Logistics.API.csproj": {
+    "/Users/giova/Documents/GitHub/logistics/Logistica.API/Logistics.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.API/Logistics.API.csproj",
+        "projectUniqueName": "/Users/giova/Documents/GitHub/logistics/Logistica.API/Logistics.API.csproj",
         "projectName": "Logistics.API",
-        "projectPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.API/Logistics.API.csproj",
+        "projectPath": "/Users/giova/Documents/GitHub/logistics/Logistica.API/Logistics.API.csproj",
         "packagesPath": "/Users/giova/.nuget/packages/",
-        "outputPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.API/obj/",
+        "outputPath": "/Users/giova/Documents/GitHub/logistics/Logistica.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/giova/.nuget/NuGet/NuGet.Config"
@@ -27,14 +27,7 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {
-              "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Application/Logistica.Application.csproj": {
-                "projectPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Application/Logistica.Application.csproj"
-              },
-              "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Persistence/Logistica.Persistence.csproj": {
-                "projectPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Persistence/Logistica.Persistence.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -67,176 +60,6 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Application/Logistica.Application.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Application/Logistica.Application.csproj",
-        "projectName": "Logistica.Application",
-        "projectPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Application/Logistica.Application.csproj",
-        "packagesPath": "/Users/giova/.nuget/packages/",
-        "outputPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Application/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/giova/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Domain/Logistica.Domain.csproj": {
-                "projectPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Domain/Logistica.Domain.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Domain/Logistica.Domain.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Domain/Logistica.Domain.csproj",
-        "projectName": "Logistica.Domain",
-        "projectPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Domain/Logistica.Domain.csproj",
-        "packagesPath": "/Users/giova/.nuget/packages/",
-        "outputPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Domain/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/giova/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Persistence/Logistica.Persistence.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Persistence/Logistica.Persistence.csproj",
-        "projectName": "Logistica.Persistence",
-        "projectPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Persistence/Logistica.Persistence.csproj",
-        "packagesPath": "/Users/giova/.nuget/packages/",
-        "outputPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Persistence/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/giova/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Application/Logistica.Application.csproj": {
-                "projectPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Application/Logistica.Application.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

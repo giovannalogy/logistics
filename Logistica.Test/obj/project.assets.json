@@ -5522,11 +5522,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Test/Logistica.Test.csproj",
-      "projectName": "Logistica.Test",
-      "projectPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Test/Logistica.Test.csproj",
+      "projectUniqueName": "/Users/giova/Documents/GitHub/logistics/Logistica.Test/Logistics.Test.csproj",
+      "projectName": "Logistics.Test",
+      "projectPath": "/Users/giova/Documents/GitHub/logistics/Logistica.Test/Logistics.Test.csproj",
       "packagesPath": "/Users/giova/.nuget/packages/",
-      "outputPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Test/obj/",
+      "outputPath": "/Users/giova/Documents/GitHub/logistics/Logistica.Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/giova/.nuget/NuGet/NuGet.Config"

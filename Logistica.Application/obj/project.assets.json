@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Application/Logistica.Application.csproj",
-      "projectName": "Logistica.Application",
-      "projectPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Application/Logistica.Application.csproj",
+      "projectUniqueName": "/Users/giova/Documents/GitHub/logistics/Logistica.Application/Logistics.Application.csproj",
+      "projectName": "Logistics.Application",
+      "projectPath": "/Users/giova/Documents/GitHub/logistics/Logistica.Application/Logistics.Application.csproj",
       "packagesPath": "/Users/giova/.nuget/packages/",
-      "outputPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Application/obj/",
+      "outputPath": "/Users/giova/Documents/GitHub/logistics/Logistica.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/giova/.nuget/NuGet/NuGet.Config"
@@ -52,8 +52,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Domain/Logistica.Domain.csproj": {
-              "projectPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Domain/Logistica.Domain.csproj"
+            "/Users/giova/Documents/GitHub/logistics/Logistica.Domain/Logistica.Domain.csproj": {
+              "projectPath": "/Users/giova/Documents/GitHub/logistics/Logistica.Domain/Logistica.Domain.csproj"
             }
           }
         }

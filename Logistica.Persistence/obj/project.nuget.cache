@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ygP/nhcpYazGJ2ZWYxyQPVcLygmXJBuQlvW9y8s64lDlsr7E2cFMR76FxfeUPpCyzuc0R5aQ8Q5xt7ysHmQyA==",
+  "dgSpecHash": "TMvNJXhZMKoHxfhf9EfwUgOAMB1Y2MzGgeZjZCpgaGQ027pK+t/L75/VUh5Cyf5skuw1rfnVRgwW6FPzDy3psA==",
   "success": true,
-  "projectFilePath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Persistence/Logistica.Persistence.csproj",
+  "projectFilePath": "/Users/giova/Documents/GitHub/logistics/Logistica.Persistence/Logistics.Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,48 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "Logistica.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Logistica.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Logistica.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Logistica.Application.dll": {}
-        }
-      },
-      "Logistica.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Logistica.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Logistica.Domain.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "Logistica.Application/1.0.0": {
-      "type": "project",
-      "path": "../Logistica.Application/Logistica.Application.csproj",
-      "msbuildProject": "../Logistica.Application/Logistica.Application.csproj"
-    },
-    "Logistica.Domain/1.0.0": {
-      "type": "project",
-      "path": "../Logistica.Domain/Logistica.Domain.csproj",
-      "msbuildProject": "../Logistica.Domain/Logistica.Domain.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "Logistica.Application >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "/Users/giova/.nuget/packages/": {}
@@ -50,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Persistence/Logistica.Persistence.csproj",
-      "projectName": "Logistica.Persistence",
-      "projectPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Persistence/Logistica.Persistence.csproj",
+      "projectUniqueName": "/Users/giova/Documents/GitHub/logistics/Logistica.Persistence/Logistics.Persistence.csproj",
+      "projectName": "Logistics.Persistence",
+      "projectPath": "/Users/giova/Documents/GitHub/logistics/Logistica.Persistence/Logistics.Persistence.csproj",
       "packagesPath": "/Users/giova/.nuget/packages/",
-      "outputPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Persistence/obj/",
+      "outputPath": "/Users/giova/Documents/GitHub/logistics/Logistica.Persistence/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/giova/.nuget/NuGet/NuGet.Config"
@@ -69,11 +32,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Application/Logistica.Application.csproj": {
-              "projectPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Application/Logistica.Application.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

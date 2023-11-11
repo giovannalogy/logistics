@@ -1,4 +1,4 @@
-﻿namespace Logistica.Application
+﻿namespace Logistics.Application
 {
     public class Class1
     {

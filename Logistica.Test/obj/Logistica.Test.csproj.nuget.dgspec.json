@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Test/Logistica.Test.csproj": {}
+    "/Users/giova/Documents/GitHub/logistics/Logistica.Test/Logistica.Test.csproj": {}
   },
   "projects": {
-    "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Test/Logistica.Test.csproj": {
+    "/Users/giova/Documents/GitHub/logistics/Logistica.Test/Logistica.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Test/Logistica.Test.csproj",
+        "projectUniqueName": "/Users/giova/Documents/GitHub/logistics/Logistica.Test/Logistica.Test.csproj",
         "projectName": "Logistica.Test",
-        "projectPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Test/Logistica.Test.csproj",
+        "projectPath": "/Users/giova/Documents/GitHub/logistics/Logistica.Test/Logistica.Test.csproj",
         "packagesPath": "/Users/giova/.nuget/packages/",
-        "outputPath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Test/obj/",
+        "outputPath": "/Users/giova/Documents/GitHub/logistics/Logistica.Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/giova/.nuget/NuGet/NuGet.Config"

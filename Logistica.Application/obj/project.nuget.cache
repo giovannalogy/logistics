@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1q4JdLXZ3RAfqkkHDXpNUtTUf25Z71VelDHpmdRWusRJV/qZP71cVAs7NmhIkBtfmXGVYYteYgln/A7tEWPQAA==",
+  "dgSpecHash": "ogu8uri40WVNo+Dorr0+i7XT8HKRtz1PfUq3GU/f3tltQ6SkJJSz8hhln3JNfRYMvaxrVhoSxzjigudQ3PdBpQ==",
   "success": true,
-  "projectFilePath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Application/Logistica.Application.csproj",
+  "projectFilePath": "/Users/giova/Documents/GitHub/logistics/Logistica.Application/Logistics.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

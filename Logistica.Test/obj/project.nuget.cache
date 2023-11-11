@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "purhpijlJJDj4DMCdke9SOIDy7PhbJ4gCBJzi7+pEXQLeIWV9dyb4ah5/ZwfPWnLMhlzStcfVcaJH6vzAISU8A==",
+  "dgSpecHash": "ItiI5kCF8rEcaM7ZnpkT10pl48jQwRSWLoAP+VBoQn5LjYBzsk0vo/qO+wkNrg73KaLhip/58bgOO5CsLb9QKg==",
   "success": true,
-  "projectFilePath": "/Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Test/Logistica.Test.csproj",
+  "projectFilePath": "/Users/giova/Documents/GitHub/logistics/Logistica.Test/Logistics.Test.csproj",
   "expectedPackageFiles": [
     "/Users/giova/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
     "/Users/giova/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",

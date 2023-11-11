@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Logistica.Domain
-build_property.ProjectDir = /Users/giova/Documents/GitHub/logistics-ddd-ada/Logistica.Domain/
+build_property.ProjectDir = /Users/giova/Documents/GitHub/logistics/Logistica.Domain/
