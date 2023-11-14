@@ -6,4 +6,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="Interfaces\logistics.Domain.csproj" />
+  </ItemGroup>
 </Project>
