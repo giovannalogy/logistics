@@ -7,6 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="Interfaces\logistics.Domain.csproj" />
+    <None Remove="Entities\" />
+    <None Remove="Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="techComercio.Domain.csproj" />
   </ItemGroup>
 </Project>

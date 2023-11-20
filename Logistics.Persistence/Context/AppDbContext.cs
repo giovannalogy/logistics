@@ -12,6 +12,7 @@ public class AppDbContext : DbContext
     public DbSet<Receiver> Receivers { get; set; }
     public DbSet<Product> Products { get; set; }
     public DbSet<Policy> Policies { get; set; }
+    public DbSet<Delivery> Deliveries { get; set; }
     public DbSet<PurchaseNotification> PurchaseNotifications { get; set; }
 
     // Configurações adicionais podem ser definidas no método OnModelCreating se necessário
