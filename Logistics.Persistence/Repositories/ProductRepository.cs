@@ -1,4 +1,5 @@
-﻿using Logistics.Domain.Entities;
+﻿using System;
+using Logistics.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Logistics.Persistence.Repositories

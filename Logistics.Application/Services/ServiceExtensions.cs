@@ -1,4 +1,4 @@
-﻿/*Iusing MediatR;
+﻿using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
 using FluentValidation;
@@ -15,4 +15,3 @@ public static class ServiceExtensions
         services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
     }
 }
-*/

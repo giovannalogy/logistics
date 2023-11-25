@@ -16,18 +16,16 @@
 		<None Remove="Services\" />
 		<None Remove="Shared\" />
 		<None Remove="UseCases\" />
-		<None Remove="Shared\Behavior\" />
-		<None Remove="Shared\Exceptions\" />
 		<None Remove="UseCases\CreateUser\" />
 		<None Remove="FluentValidation.DependencyInjectionExtensions" />
 		<None Remove="UseCases\CreatePolicies\" />
+		<None Remove="UseCases\GetNotification\" />
 	</ItemGroup>
 	<ItemGroup>
 		<Folder Include="Services\" />
 		<Folder Include="Shared\" />
-		<Folder Include="Shared\Behavior\" />
-		<Folder Include="Shared\Exceptions\" />
 		<Folder Include="UseCases\CreatePolicies\" />
+		<Folder Include="UseCases\GetNotification\" />
 	</ItemGroup>
 	<ItemGroup>
 		<PackageReference Include="MediatR" Version="12.1.1" />

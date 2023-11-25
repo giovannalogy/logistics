@@ -1,5 +1,4 @@
-﻿using Logistics.Application.UseCases.GetProduct;
-using Logistics.Domain.Entities;
+﻿using Logistics.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Logistics.API.Controllers

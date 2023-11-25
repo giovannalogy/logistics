@@ -1,5 +1,6 @@
 ﻿using Logistics.Domain.Entities;
 using Logistics.Domain.Interfaces;
+using Logistics.Persistence;
 using Microsoft.EntityFrameworkCore;
 
 namespace Logistics.Persistence.Repositories
