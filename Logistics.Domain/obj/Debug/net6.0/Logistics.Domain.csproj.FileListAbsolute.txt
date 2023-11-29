@@ -1,0 +1,5 @@
+/Users/giova/Documents/GitHub/logistics/Logistics.Domain/obj/Debug/net6.0/Logistics.Domain.csproj.AssemblyReference.cache
+/Users/giova/Documents/GitHub/logistics/Logistics.Domain/obj/Debug/net6.0/Logistics.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giova/Documents/GitHub/logistics/Logistics.Domain/obj/Debug/net6.0/Logistics.Domain.AssemblyInfoInputs.cache
+/Users/giova/Documents/GitHub/logistics/Logistics.Domain/obj/Debug/net6.0/Logistics.Domain.AssemblyInfo.cs
+/Users/giova/Documents/GitHub/logistics/Logistics.Domain/obj/Debug/net6.0/Logistics.Domain.csproj.CoreCompileInputs.cache

@@ -9,8 +9,6 @@ namespace Logistics.Domain.Entities
         public Guid AddressID { get; set; }
 
         public string Name { get; set; }
-
-
     }
 
 }

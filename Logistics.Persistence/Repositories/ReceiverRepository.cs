@@ -13,7 +13,7 @@ namespace Logistics.Persistence.Repositories
 
         public async Task AddRecipientAsync(Receiver receiver)
         {
-            _dbContext.Receivers.Add(receiver);
+            _dbContext.Receiver.Add(receiver);
             await _dbContext.SaveChangesAsync();
         }
     }
