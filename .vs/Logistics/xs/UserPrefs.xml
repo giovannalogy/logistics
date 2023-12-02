@@ -1,48 +1,60 @@
 ﻿<Properties StartupConfiguration="{E121E20A-01B8-4CCC-9AFC-A0A00CC8BC4C}|Logistica.API">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Logistics.API/Extensions/CorsPolicyExtension.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Logistics.Persistence/Repositories/ReceiverRepository.cs">
     <Files>
-      <File FileName="Logistics.Domain/Interfaces/IUserRepository.cs" Line="3" Column="12" />
-      <File FileName="Logistics.Domain/Interfaces/logistics.Domain.csproj" Line="17" Column="11" />
-      <File FileName="Logistics.Domain/Entities/User.cs" Line="11" Column="1" />
-      <File FileName="Logistics.Domain/Entities/UserPerfil.cs" Line="6" Column="2" />
-      <File FileName="Logistics.Persistence/Repositories/KafkaProducer.cs" Line="33" Column="1" />
-      <File FileName="Logistics.Domain/Interfaces/IKafkaProducer.cs" Line="5" Column="2" />
-      <File FileName="Logistics.Domain/Entities/Messages.cs" Line="9" Column="2" />
-      <File FileName="Logistics.Persistence/Repositories/BaseRepository.cs" Line="22" Column="6" />
-      <File FileName="Logistics.Persistence/Repositories/PolicyRepository.cs" Line="8" Column="2" />
-      <File FileName="Logistics.Persistence/Repositories/ReceiverRepository.cs" Line="7" Column="36" />
-      <File FileName="Logistics.Persistence/Repositories/ProductRepository.cs" Line="8" Column="6" />
-      <File FileName="Logistics.Persistence/Repositories/ServiceExtensions.cs" Line="3" Column="37" />
-      <File FileName="Logistics.Domain/Interfaces/IReceiverRepository.cs" Line="5" Column="22" />
-      <File FileName="Logistics.Domain/Interfaces/IPolicyRepository.cs" Line="1" Column="1" />
-      <File FileName="Logistics.Domain/Interfaces/IPurchaseNotification.cs" Line="1" Column="1" />
-      <File FileName="Logistics.Domain/Interfaces/IProductRepository.cs" Line="1" Column="1" />
-      <File FileName="Logistics.Domain/Entities/Receiver.cs" Line="14" Column="1" />
-      <File FileName="Logistics.Persistence/Repositories/DeliveryRepository.cs" Line="19" Column="26" />
-      <File FileName="Logistics.Persistence/Context/AppDbContext.cs" Line="4" Column="38" />
-      <File FileName="Logistics.API/BD/BD.cs" Line="1" Column="1" />
-      <File FileName="Logistics.API/Controllers/DeliveryController.cs" Line="1" Column="1" />
-      <File FileName="Logistics.API/Controllers/ProductController.cs" Line="1" Column="1" />
-      <File FileName="Logistics.Application/UseCases/CreatePolicies/CreatePolicyMapper.cs" Line="1" Column="1" />
-      <File FileName="Logistics.Application/UseCases/CreatePolicies/CreatePolicyResponse.cs" Line="11" Column="1" />
-      <File FileName="Logistics.Application/UseCases/CreatePolicies/CreatePolicyValidator.cs" Line="9" Column="6" />
-      <File FileName="Logistics.Application/UseCases/CreatePolicies/CreatePolicyHandler.cs" Line="1" Column="1" />
-      <File FileName="Logistics.Application/UseCases/CreatePolicies/CreatePolicyRequest.cs" Line="11" Column="1" />
-      <File FileName="Logistics.Persistence/Repositories/UnityOfWork.cs" Line="16" Column="2" />
-      <File FileName="Logistics.Domain/Interfaces/IUnityOfWork.cs" Line="1" Column="1" />
-      <File FileName="Logistics.Domain/techComercio.Domain.csproj" Line="17" Column="11" />
-      <File FileName="Logistics.API/Extensions/CorsPolicyExtension.cs" Line="14" Column="2" />
+      <File FileName="Logistics.Application/UseCases/CreatePolicies/CreatePolicyRequest.cs" Line="11" Column="1" IsPinned="True" />
+      <File FileName="Logistics.API/appsettings.Development.json" Line="9" Column="1" />
+      <File FileName="Logistics.API/appsettings.json" Line="13" Column="1" />
+      <File FileName="Logistics.API/Program.cs" Line="1" Column="1" />
+      <File FileName="Logistics.API/techLogistics.db" Line="2" Column="1" />
+      <File FileName="Logistics.API/techLogistica.db-shm" Line="1" Column="1" />
+      <File FileName="Logistics.API/techLogistics.db-wal" Line="3" Column="1" />
+      <File FileName="Logistics.Application/Services/ServiceExtensions.cs" Line="18" Column="1" />
+      <File FileName="Logistics.Application/Shared/VaidatioBehavior.cs" Line="7" Column="5" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificacaoHandler.cs" Line="23" Column="1" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationByIdHandler.cs" Line="10" Column="76" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationByIdMapper.cs" Line="7" Column="51" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationByIdRequest.cs" Line="3" Column="84" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationByIdResponse.cs" Line="4" Column="30" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationMapper.cs" Line="10" Column="1" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationResponse.cs" Line="7" Column="1" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationValidator.cs" Line="10" Column="2" />
+      <File FileName="Logistics.Domain/Entities/Delivery.cs" Line="1" Column="1" />
+      <File FileName="Logistics.Domain/Entities/Receiver.cs" Line="12" Column="5" />
+      <File FileName="Logistics.Domain/Entities/ShippingStatus.cs" Line="11" Column="2" />
+      <File FileName="Logistics.Domain/Entities/Address.cs" Line="5" Column="29" />
+      <File FileName="Logistics.Domain/Entities/Deliver.cs" Line="7" Column="24" />
+      <File FileName="Logistics.Domain/Entities/MessageReceived.cs" Line="6" Column="1" />
+      <File FileName="Logistics.Domain/Entities/Messages.cs" Line="1" Column="1" />
+      <File FileName="Logistics.Domain/Entities/NotificationBuy.cs" Line="11" Column="1" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationRequest.cs" Line="1" Column="1" />
+      <File FileName="Logistics.Persistence/Repositories/UnityOfWork.cs" Line="1" Column="1" />
+      <File FileName="Logistics.Persistence/Repositories/ReceiverRepository.cs" Line="18" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Logistics" expanded="True">
-            <Node name="Logistics.API" expanded="True">
-              <Node name="BD" expanded="True" />
-              <Node name="Controllers" expanded="True" />
-              <Node name="Extensions" expanded="True">
-                <Node name="CorsPolicyExtension.cs" selected="True" />
+          <Node name="Logistics" expanded="True" selected="True">
+            <Node name="Logistics.Application" expanded="True">
+              <Node name="Services" expanded="True" />
+              <Node name="Shared" expanded="True" />
+              <Node name="UseCases" expanded="True">
+                <Node name="CreateNotification" expanded="True" />
+                <Node name="CreatePolicies" expanded="True" />
+                <Node name="GetNotification" expanded="True" />
               </Node>
+            </Node>
+            <Node name="Logistics.Domain" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+            </Node>
+            <Node name="Logistics.Persistence" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Context" expanded="True" />
+              <Node name="Repositories" expanded="True" />
             </Node>
           </Node>
         </State>
