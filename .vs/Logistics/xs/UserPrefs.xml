@@ -2,43 +2,42 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Logistics.Persistence/Repositories/ReceiverRepository.cs">
     <Files>
       <File FileName="Logistics.Application/UseCases/CreatePolicies/CreatePolicyRequest.cs" Line="11" Column="1" IsPinned="True" />
-      <File FileName="Logistics.API/appsettings.Development.json" Line="9" Column="1" />
-      <File FileName="Logistics.API/appsettings.json" Line="13" Column="1" />
-      <File FileName="Logistics.API/Program.cs" Line="1" Column="1" />
-      <File FileName="Logistics.API/techLogistics.db" Line="2" Column="1" />
-      <File FileName="Logistics.API/techLogistica.db-shm" Line="1" Column="1" />
-      <File FileName="Logistics.API/techLogistics.db-wal" Line="3" Column="1" />
-      <File FileName="Logistics.Application/Services/ServiceExtensions.cs" Line="18" Column="1" />
-      <File FileName="Logistics.Application/Shared/VaidatioBehavior.cs" Line="7" Column="5" />
-      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificacaoHandler.cs" Line="23" Column="1" />
-      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationByIdHandler.cs" Line="10" Column="76" />
-      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationByIdMapper.cs" Line="7" Column="51" />
-      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationByIdRequest.cs" Line="3" Column="84" />
-      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationByIdResponse.cs" Line="4" Column="30" />
-      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationMapper.cs" Line="10" Column="1" />
-      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationResponse.cs" Line="7" Column="1" />
-      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationValidator.cs" Line="10" Column="2" />
-      <File FileName="Logistics.Domain/Entities/Delivery.cs" Line="1" Column="1" />
-      <File FileName="Logistics.Domain/Entities/Receiver.cs" Line="12" Column="5" />
-      <File FileName="Logistics.Domain/Entities/ShippingStatus.cs" Line="11" Column="2" />
-      <File FileName="Logistics.Domain/Entities/Address.cs" Line="5" Column="29" />
-      <File FileName="Logistics.Domain/Entities/Deliver.cs" Line="7" Column="24" />
-      <File FileName="Logistics.Domain/Entities/MessageReceived.cs" Line="6" Column="1" />
-      <File FileName="Logistics.Domain/Entities/Messages.cs" Line="1" Column="1" />
-      <File FileName="Logistics.Domain/Entities/NotificationBuy.cs" Line="11" Column="1" />
-      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationRequest.cs" Line="1" Column="1" />
-      <File FileName="Logistics.Persistence/Repositories/UnityOfWork.cs" Line="1" Column="1" />
+      <File FileName="Logistics.API/appsettings.Development.json" />
+      <File FileName="Logistics.API/appsettings.json" />
+      <File FileName="Logistics.API/Program.cs" />
+      <File FileName="Logistics.API/techLogistics.db" />
+      <File FileName="Logistics.API/techLogistics.db-wal" />
+      <File FileName="Logistics.Application/Services/ServiceExtensions.cs" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationByIdHandler.cs" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationByIdMapper.cs" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationByIdRequest.cs" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationByIdResponse.cs" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationMapper.cs" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationResponse.cs" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationValidator.cs" />
+      <File FileName="Logistics.Domain/Entities/Delivery.cs" />
+      <File FileName="Logistics.Domain/Entities/Receiver.cs" />
+      <File FileName="Logistics.Domain/Entities/ShippingStatus.cs" />
+      <File FileName="Logistics.Domain/Entities/Address.cs" />
+      <File FileName="Logistics.Domain/Entities/Deliver.cs" />
+      <File FileName="Logistics.Domain/Entities/MessageReceived.cs" />
+      <File FileName="Logistics.Domain/Entities/Messages.cs" />
+      <File FileName="Logistics.Domain/Entities/NotificationBuy.cs" />
+      <File FileName="Logistics.Application/UseCases/GetNotification/GetNotificationRequest.cs" />
+      <File FileName="Logistics.Persistence/Repositories/UnityOfWork.cs" />
       <File FileName="Logistics.Persistence/Repositories/ReceiverRepository.cs" Line="18" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Logistics" expanded="True" selected="True">
+          <Node name="Logistics" expanded="True">
             <Node name="Logistics.Application" expanded="True">
               <Node name="Services" expanded="True" />
               <Node name="Shared" expanded="True" />
               <Node name="UseCases" expanded="True">
-                <Node name="CreateNotification" expanded="True" />
+                <Node name="CreateNotification" expanded="True">
+                  <Node name="CreateNotificationRequest.cs" selected="True" />
+                </Node>
                 <Node name="CreatePolicies" expanded="True" />
                 <Node name="GetNotification" expanded="True" />
               </Node>
